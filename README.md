@@ -1,0 +1,2 @@
+# Sotta
+ Testando IA's
